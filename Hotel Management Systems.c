@@ -1,10 +1,3 @@
-//Kelompok Sayur Asem
-
-//Riefky Arif Ibrahim 1806194725
-//Kevin Geovany 1806147956
-
-//Kelas Algoritma & Pemrograman 1
-
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
